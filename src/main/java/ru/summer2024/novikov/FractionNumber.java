@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public class FractionNumber extends Number {
     public Integer a, b;
@@ -6,7 +6,8 @@ public class FractionNumber extends Number {
     public FractionNumber(String value) {
         String[] parts = value.split("/");
         if (parts.length != 2)
-            throw new IllegalArgumentException("Строка должна содержать ровно одно деление");
+            throw new IllegalArgumentException(
+                    "Строка должна содержать ровно одно деление");
         a = Integer.parseInt(parts[0]);
         b = Integer.parseInt(parts[1]);
     }

@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public class intSubstraction extends IntOperation {
    public intSubstraction(Number first, Number second) {

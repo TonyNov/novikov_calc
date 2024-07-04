@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public class FractionDivision extends FractionOperation {
    public FractionDivision(Number first, Number second) {

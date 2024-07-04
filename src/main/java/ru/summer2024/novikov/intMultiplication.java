@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public class intMultiplication extends IntOperation {
    public intMultiplication(Number first, Number second) {

@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public class IntegerNumber extends Number {
    public Integer value;

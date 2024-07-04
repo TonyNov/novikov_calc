@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public abstract class FractionOperation extends Operation {
    FractionNumber firstOperand, secondOperand;

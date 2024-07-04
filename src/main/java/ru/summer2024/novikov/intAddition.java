@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public class intAddition extends IntOperation {
    public intAddition(Number first, Number second) {

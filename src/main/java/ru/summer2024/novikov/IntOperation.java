@@ -1,4 +1,4 @@
-package krista;
+package ru.summer2024.novikov;
 
 public abstract class IntOperation extends Operation {
    IntegerNumber firstOperand, secondOperand;
